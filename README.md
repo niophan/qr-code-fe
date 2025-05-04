@@ -24,8 +24,8 @@ This project is to rehearse knowledge in using HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/niophan/qr-code-fe/tree/main)
+- Live Site URL: [Click here](https://niophan.github.io/qr-code-fe/)
 
 ## My process
 
