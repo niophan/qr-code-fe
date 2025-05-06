@@ -24,8 +24,8 @@ This project is to rehearse knowledge in using HTML and CSS.
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/niophan/qr-code-fe/tree/main)
-- Live Site URL: [Click here](https://github.com/niophan/qr-code-fe_1)
+- Solution URL: [Click here](https://github.com/niophan/qr-code-fe_1)
+- Live Site URL: [Click here](https://niophan.github.io/qr-code-fe_1/)
 
 ## My process
 
