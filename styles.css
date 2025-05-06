@@ -16,7 +16,7 @@ body {
   background: hsl(0, 0%, 100%);
   padding: 15px;
   width: 285px;
-  height: 460px;
+  height: 470px;
   border-radius: 10px;
   position: absolute;
   top: 50%;
@@ -45,7 +45,6 @@ img {
 
 .text-normal {
   padding: 0;
-  margin: 0;
   font-weight: 400;
   color: hsl(216, 15%, 48%);
 }
